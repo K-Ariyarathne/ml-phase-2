@@ -19,7 +19,11 @@ The notebook explores data quality, missing values, feature engineering, chronol
 
 ## Dataset
 
-The experiments use the Rain in Australia weather dataset. Obtain the dataset from its original source and place it in the location expected by the notebook. Check the notebook's data-loading cell for the exact filename and path.
+This project uses the Rain in Australia weather dataset.
+
+Download the full dataset and save it as weatherAUS.csv in the same folder as Phase2_Technical_Appendix.ipynb.
+
+The notebook expects the full dataset covering 49 weather stations. The dataset is required to run the notebook from beginning to end.
 
 ## Requirements
 
